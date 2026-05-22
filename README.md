@@ -1,13 +1,12 @@
 # Work Log Management System
 
-ASP.NET Core MVC and SQL Server based application for managing daily work logs and reporting activities.
+ASP.NET Core MVC and SQL Server based application for managing daily work logs.
 
 ## Features
 - CRUD Operations
 - SQL Server Integration
 - REST API Operations
 - Daily Work Tracking
-- Reporting Functionality
 
 ## Technologies Used
 - ASP.NET Core MVC
